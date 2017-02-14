@@ -30,7 +30,7 @@
 
 // Google maps 
 
- google.charts.load('upcoming', { mapsApiKey:AIzaSyAjCmmVaFF8iMhS1eqblu4shFZEFEZ8nbM ,packages: ['map']});
+ google.charts.load('upcoming', {packages: ['map']});
     google.charts.setOnLoadCallback(drawMap);
 
     function drawMap () {
