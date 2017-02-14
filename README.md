@@ -1,5 +1,5 @@
 # PracticaBootstrap
 
-If you want see the web, use the link below
+If you want see the web, use [THIS LINK](https://xosejx.github.io/PracticaBootstrap/)
 
-[View here](https://xosejx.github.io/PracticaBootstrap/)
+
