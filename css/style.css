@@ -477,3 +477,22 @@ ul.social-buttons li a:active {
 img::selection {
   background: transparent;
 }
+
+#map_div{
+    position: relative;
+    top:3.5vh;
+}
+
+.hide-bullets {
+    list-style:none;
+    margin-left: -40px;
+    margin-top:20px;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+    width: 100%;
+}
